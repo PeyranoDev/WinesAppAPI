@@ -13,9 +13,6 @@ Esta es una API REST desarrollada en C# utilizando ASP.NET Core. La aplicación 
    - [Vinos](#vinos)
 5. [Excepciones Personalizadas](#excepciones-personalizadas)
 6. [Autenticación](#autenticación-1)
-7. [Documentación de la API](#documentación-de-la-api)
-8. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-9. [Licencia](#licencia)
 
 ## Características
 
